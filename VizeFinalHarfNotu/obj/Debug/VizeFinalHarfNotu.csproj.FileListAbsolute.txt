@@ -1,0 +1,10 @@
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\bin\Debug\VizeFinalHarfNotu.exe.config
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\bin\Debug\VizeFinalHarfNotu.exe
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\bin\Debug\VizeFinalHarfNotu.pdb
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\obj\Debug\VizeFinalHarfNotu.csproj.AssemblyReference.cache
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\obj\Debug\VizeFinalHarfNotu.Form1.resources
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\obj\Debug\VizeFinalHarfNotu.Properties.Resources.resources
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\obj\Debug\VizeFinalHarfNotu.csproj.GenerateResource.cache
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\obj\Debug\VizeFinalHarfNotu.csproj.CoreCompileInputs.cache
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\obj\Debug\VizeFinalHarfNotu.exe
+C:\Users\cemal\source\repos\VizeFinalHarfNotu\VizeFinalHarfNotu\obj\Debug\VizeFinalHarfNotu.pdb
